@@ -73,7 +73,7 @@ body a {
 
 #lake::before {
   height: 3rem;
-  background-image: url(/img/wave.png);
+  background-image: url(../img/wave.png);
   background-size: 10%;
   background-repeat: repeat-x;
   display: block;
