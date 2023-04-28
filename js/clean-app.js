@@ -109,7 +109,7 @@ class Rock {
     div.id = "rock";
     gameArea.append(div);
     const img = document.createElement("img");
-    img.src = "../img/gallet.svg";
+    img.src = "./img/gallet.svg";
     div.append(img);
 
     return div;
